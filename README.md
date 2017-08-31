@@ -5,7 +5,7 @@
 ### git地址：
 https://github.com/ry928330/ballGame.git
 ### 成果展示：
-![玩儿了两次，第一次得了4分就结束了，然后点击屏幕可继续。第二次，截到了碰到红色小块儿的情况，此时小篮球运动加速。](https://user-gold-cdn.xitu.io/2017/8/30/60d66c0762ca80a4598a518bd3b07b22)
+http://note.youdao.com/noteshare?id=1cff79c426b187a5637a9e96d949cb09
 ### 实现思路：
 这里我们采用疑问的句式给出实现的思路（步骤），因为我写这个demo的时候也是这样去想的：
     
